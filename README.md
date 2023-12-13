@@ -1,5 +1,5 @@
-#HTML & CSS 
+This is my first Repository
 <BR>
-PROJECT 1 PRACTICE
+Project Html5 & Css3
 <BR>
 ABDULSAMADHAYAT
